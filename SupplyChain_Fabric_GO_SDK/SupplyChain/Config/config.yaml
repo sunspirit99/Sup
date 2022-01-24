@@ -1,0 +1,15 @@
+ServerName: "localhost:3306"
+User:       "linh"
+Password:   "Password@99"
+DB:         "supplychain"
+
+channelName  : "mychannel"
+contractName : "supply"
+
+maxWorker : 10
+maxTransaction : 1000
+maxAccount : 1000
+
+processing : 0
+success : 1
+fail : 2
